@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+#
+# Updating `_src` could be helpful, see notes at:
+# https://github.com/level12/coppy/wiki#creating-a-project
+#
+# Otherwise, NEVER EDIT MANUALLY
+_commit: v1.20250226.2-8-gfbf5690
+_src_path: /home/rsyring/projects/coppy-pkg
+author_email: jpicard@starfleet.space
+author_name: Picard
+gh_org: level12
+gh_repo: coppydemo
+hatch_version_tag_sign: true
+project_name: CoppyDemo
+py_module: coppydemo
+python_version: '3.13'
+script_name: coppydemo
+use_circleci: false
+use_gh_nox: true
