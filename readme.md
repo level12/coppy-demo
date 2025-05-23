@@ -1,5 +1,7 @@
-# CoppyDemo
+# Coppy Demo
 [![nox](https://github.com/level12/coppydemo/actions/workflows/nox.yaml/badge.svg)](https://github.com/level12/coppydemo/actions/workflows/nox.yaml)
+
+This is the package created by the [Coppy](https://github.com/level12/coppy/issues) `mise demo` task.
 
 ## Dev
 
