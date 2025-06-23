@@ -1,5 +1,5 @@
 line-length = 100
-target-version = 'py312'
+target-version = 'py313'
 output-format = 'concise'
 
 [format]
@@ -77,7 +77,7 @@ ignore = [
 
 
 [lint.flake8-builtins]
-builtins-ignorelist = ['id', 'help', 'compile']
+ignorelist = ['id', 'help', 'compile']
 
 
 [lint.flake8-quotes]
@@ -89,4 +89,4 @@ inline-quotes = 'single'
 [lint.isort]
 lines-after-imports = 2
 force-sort-within-sections = true
-known-first-party = ['tasks_lib']
+known-first-party = ['coppydemo_tasks_lib']
