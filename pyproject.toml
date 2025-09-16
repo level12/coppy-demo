@@ -25,7 +25,7 @@ readme = 'readme.md'
 # conflicts when upgrading to the latest Coppy template.
 dev = [
     # From Coppy:
-    {include-group = "tests"},
+    {include-group = "pytest"},
     {include-group = "pre-commit"},
     {include-group = "audit"},
     {include-group = "nox"},
@@ -37,7 +37,7 @@ dev = [
     # TODO: fill in app deps here
 ]
 # Used by nox
-tests = [
+pytest = [
     # From Coppy:
     'pytest',
     'pytest-cov',
