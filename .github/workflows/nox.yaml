@@ -34,7 +34,6 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: read    # For actions/checkout
       id-token: write   # For codecov OIDC
 
     steps:
