@@ -6,7 +6,7 @@ omit =
 
 source =
     src/coppydemo
-    src/coppydemo_tests
+    tests/coppydemo_tests
 
 
 [html]
