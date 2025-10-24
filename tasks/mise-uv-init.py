@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-#MISE hide=true
+# [MISE] hide=true
 
 PURPOSE - this script, in combination with mise.toml, facilitates:
 
