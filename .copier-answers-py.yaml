@@ -4,16 +4,19 @@
 # https://github.com/level12/coppy/wiki#creating-a-project
 #
 # Otherwise, NEVER EDIT MANUALLY
-_commit: v1.20251024.2-1-g361c15a
+_commit: v1.20260813.1
 _src_path: /home/rsyring/projects/coppy-pkg
 author_email: jpicard@starfleet.space
 author_name: Picard
 gh_org: level12
 gh_repo: coppy-demo
-hatch_version_tag_sign: true
 project_name: CoppyDemo
 py_module: coppydemo
 python_version: '3.13'
+python_version_min: '3.13'
 script_name: coppydemo
 use_circleci: false
+use_codecov: true
 use_gh_nox: true
+use_js_cooldown: true
+use_rumdl: true
